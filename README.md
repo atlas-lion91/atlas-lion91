@@ -9,17 +9,11 @@
 
 🤖 Automating the cloud, one script at a time
 
-🚀 Passionate about cloud engineering, automation and optimizing systems. 
-
-🌱 Currently diving deep into the world of Site Reliability Engineering and Infrastructure Automation.  
+🚀 Enthusiastic about cloud engineering, automation and optimizing systems. 
 
 🛠️ Tools of the Trade: Docker, Kubernetes, Terraform, AWS.  
 
 📚 Passionate about continuous learning, infrastructure as code, and system resilience. 
-
-🤖 Automating tasks and optimizing systems, one line of code at a time.
-
-🤝 Open to collaborations, projects, and coffee chats about all things DevOps and SRE. 
 
 🔍 Exploring opportunities to apply and expand my skills in real-world scenarios.
 
