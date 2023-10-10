@@ -1,6 +1,5 @@
 ### Hi there 👋 My name is Khalil!
 
-🌩️ Aspiring Cloud Engineer 
 
 ☁️ Transitioning into the world of Cloud Engineering ☁️ 
 
