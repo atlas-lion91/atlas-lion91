@@ -11,7 +11,7 @@
 
 🚀 Enthusiastic about cloud engineering, automation and optimizing systems. 
 
-🛠️ Tools of the Trade: Docker, Kubernetes, Terraform, AWS.  
+🛠️ Tools of the Trade: Docker, Terraform, AWS.  
 
 📚 Passionate about continuous learning, infrastructure as code, and system resilience. 
 
